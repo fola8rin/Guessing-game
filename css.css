@@ -1,0 +1,74 @@
+body{
+    background-color: blueviolet;
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 5%;
+    font-family: cursive;
+}
+
+
+p1{
+
+    font-family: cursive;
+    font-size: x-large;
+    text-align: center;
+}
+
+
+
+.neat{
+    color: orangered;
+}
+
+
+
+input[type="text"]{
+    padding: 4%;
+    border-radius:10px;
+    border: 1px;
+}
+
+
+button{
+    padding: 5%;
+    border-radius: 10px;
+    border: 1px;
+    transition: background-color 0.25s;
+}
+
+
+
+
+
+button:hover{
+    background-color: blueviolet;
+}
+
+
+
+
+
+.HEAD{
+    background-color: brown;
+    padding: 10%;
+    border-radius: 10px;
+}
+
+
+
+
+
+.NEXT{
+    font-size: larger;
+    font-family: cursive;
+}
+
+
+
+
+
+
+
